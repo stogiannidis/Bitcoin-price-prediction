@@ -1,4 +1,4 @@
-# machinelearning
+# Bitcoin price analysis and prediction
 Machine Learning Project of 2022
 
 This is the project for the Machine Learning class of the Seventh Semester.
